@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -20,3 +21,7 @@ git commit -m "Subir proyecto completo"
 git branch -M main
 git remote add origin https://github.com/jleocol232/reservas-salon.git
 git push -u origin main
+=======
+# reservas-salon
+web de reservas salon de actos
+>>>>>>> 538be31f6c2aa650b09c3f610eccc2d65a687fd3
